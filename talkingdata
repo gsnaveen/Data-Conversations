@@ -1,46 +1,53 @@
 
-Format email
+Audience
 	Data Analyst
 	Data engineer
-	
-Screenshots:
-	Picture is worth a thousnad words 
-	picture is unstructured data
+	Data scientist
 
-Unstructured data:
-	paragraphs of written explaination
-	try to use points and make it structured
-	
-Turning Unstructured to structured data:
-	using a table
-	topic|values|description
 
-Using Formatting:
-	Underline
-	Italic
-	Bold
-	
-Using Colors:
-	use matching colors for multiple topics in a email
-	Font color
-	Background color
+Organizing information:
+	Screenshots:
+		picture is worth a thousand words 
+		picture is unstructured data, hard to copy paste values
 
-Use points:
-	it organizes the email
-	split the email into sections
-	mention the # of points in the email
-	Use # for main a) alpha for upto 5 points
-	have seperate email for each resonable topic
+	Unstructured data:
+		paragraphs of written explaination
+		try to use points and make it structured
 
-Always provide supporting:
+	Turning Unstructured to structured data:
+		using a table
+		topic|values|description
+	Use points:
+		it organizes the email
+		split the email into sections
+		mention the # of points in the email
+		Use # for main a) alpha for upto 5 points
+		have seperate email for each resonable topic
+
+
+Formatting & Color:
+	Formatting:
+		Underline
+		Italic
+		Bold
+
+	Colors:
+		use matching colors for multiple topics in a email
+		Font color
+		Background color
+
+
+Supporting data:
 	data examples
 	SQL if possible
 
-Using links for details:
-	It is challing to put all the detials in the email
-	share links to detail content
-	
-Attachments:
-	attachments are a friction point
-	try to have small attachments
-	make a thumbnail of the main slides (it helps with the curiosity of the reciever)
+
+External additional data:
+	Using links for details:
+		It is challing to put all the detials in the email
+		share links to detail content
+
+	Attachments:
+		attachments are a friction point
+		try to have small attachments
+		make a thumbnail of the main slides (it helps with the curiosity of the reciever)
