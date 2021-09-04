@@ -8,16 +8,19 @@ Screenshots:
 	picture is unstructured data
 
 Unstructured data:
-	paragraphs of writtend explaination
+	paragraphs of written explaination
 	
 Turning Unstructured to structured data
 	using a table
+	topic|values|description
 	
 Using Colors:
 	use matching colors for multiple topics in a email
 
 Use points:
 	it organizises the email and a reciever knows how many points to consider
+	Split the email into sections
+	Have seperate email for each topic
 
 Always provide supporting:
 	data examples
