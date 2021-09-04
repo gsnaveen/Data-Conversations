@@ -9,18 +9,26 @@ Screenshots:
 
 Unstructured data:
 	paragraphs of written explaination
+	try to use points
 	
 Turning Unstructured to structured data
 	using a table
 	topic|values|description
+
+Using Formatting:
+	Underline
+	Italic
+	Bold
 	
 Using Colors:
 	use matching colors for multiple topics in a email
 
 Use points:
-	it organizises the email and a reciever knows how many points to consider
-	Split the email into sections
-	Have seperate email for each topic
+	it organizes the email
+	split the email into sections
+	mention the # of points in the email
+	Use # for main a) alpha for upto 5 points
+	have seperate email for each topic
 
 Always provide supporting:
 	data examples
