@@ -1,0 +1,37 @@
+Step 1:
+	Collect all the relevent information before the session
+  
+Step 2:
+	Know the business expectation
+
+Step 3:
+	Know the gap issue. What is expected and what is shown
+	
+Step 4:
+	Have possible scenarios of what may be the reason
+
+Step 5:
+	Invite representation from each team. Business analyst needs to lead the debugging
+	
+		1) Business Analyst 
+				Expected metric
+				Anomaly
+				Business process supporting the data
+		2) BI engineer
+				Check the BI Layer
+				Identify the entities for the metric/anaomaly
+				SQL for the issues
+				Example correct records
+				Example incorrect records
+		3) Data engineer
+				data in tables
+				Schedule
+				Dependencies
+				Source application
+		4) Source system contact
+				UI
+				Backend
+
+Not everyone needs to be in the call at the same time.
+	multi step process
+		1) Analysis of a step should provide charactrizationa and reason with supporting data to next step
