@@ -17,6 +17,7 @@
 	Turning Unstructured to structured data:
 		using a table
 		topic|values|description
+		
 	Use points:
 		it organizes the email
 		split the email into sections
@@ -42,7 +43,7 @@
 	SQL if possible
 
 
-5) External additional data:
+5) External reference data/information:
 	Using links for details:
 		It is challing to put all the detials in the email
 		share links to detail content
