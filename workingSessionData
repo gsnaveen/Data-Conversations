@@ -8,7 +8,7 @@ Step 2:
 	this determines the priority of the issue P1/2/3/4/5
 
 Step 3:
-	Know the gap/issue. What is expected and what is shown
+	detail of gap/issue. What is expected and what is shown
 	Details that hilights the issue/anomaly
 	
 Step 4:
@@ -19,7 +19,7 @@ Step 5:
 	
 		1) Business Analyst 
 				Expected metric
-				Anomaly
+				Anomaly explaination
 				Business process supporting the data
 		2) BI engineer
 				Check the BI Layer
