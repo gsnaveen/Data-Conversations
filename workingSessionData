@@ -2,13 +2,14 @@ Step 1:
 	Collect all the relevent information before the session
   
 Step 2:
-	Know the business expectation
+	problem defination. Impact to the business/process
+	this determines the priority of the issue P1/2/3/4/5
 
 Step 3:
-	Know the gap issue. What is expected and what is shown
+	Know the gap/issue. What is expected and what is shown
 	
 Step 4:
-	Have possible scenarios of what may be the reason
+	hypothesis, Have possible scenarios of what may be the reason
 
 Step 5:
 	Invite representation from each team. Business analyst needs to lead the debugging
@@ -19,10 +20,11 @@ Step 5:
 				Business process supporting the data
 		2) BI engineer
 				Check the BI Layer
-				Identify the entities for the metric/anaomaly
-				SQL for the issues
+				Identify the metric/anaomaly
+				Is it accross or issues with some
 				Example correct records
 				Example incorrect records
+				supporting SQL for the issues
 		3) Data engineer
 				data in tables
 				Schedule
