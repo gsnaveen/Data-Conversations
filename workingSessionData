@@ -28,7 +28,8 @@ Step 5:
 				Example incorrect records
 				supporting SQL for the issues
 		3) Data engineer
-				data in tables
+				data in entities
+				possible pipeline errors
 				Schedule
 				Dependencies
 				Source application
