@@ -9,3 +9,7 @@ define Ngrams , keep the words together
 select * from tab1 where caption like '%word%'
 
 select * from tab1 where keyword1 like '%word%'
+
+NLP : nGrams , Stem , Similarity
+ML  : Clustering, Classifiction , Similarity
+Hierarchy : Date, Product , Customer , Business
