@@ -1,7 +1,7 @@
 Reverse engineering business vocabulary
 
 Extract Tableau Meta data
-Split captions into keywords
+Split captions into keywords, count of keywords for caption
 create keyword1,keyword2,keyword3,keyword4 keywords combination
 
 define Ngrams , keep the words together
