@@ -1,0 +1,9 @@
+Extract Tableau Meta data
+Split captions into keywords
+create keyword1,keyword2,keyword3,keyword4 keywords combination
+
+define Ngrams , keep the words together
+
+select * from tab1 where caption like '%word%'
+
+select * from tab1 where keyword1 like '%word%'
