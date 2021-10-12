@@ -1,0 +1,32 @@
+Subject : Request for Data model for {Appication}
+ 
+Application:
+        Data Lake
+        Source System
+        Analytical Application
+        Data bub
+        Data Mart
+        Data Warehouse
+
+Hi Team,
+
+I am trying to get a better understanding of {Application}. Can you please help me with the following details.
+
+Data Modal : Which includs 
+                Entities
+                Relationships
+                Grain
+                Data types
+                Type of entitiy 
+                        Dimesnion
+                        Fact
+                        Master
+                        Detail
+                        Transactional
+                        Reporting
+                        Cureated
+ 
+Contacts for:
+        Business Owner of the application:
+        Techinical Owner/Architect of the application:
+        
