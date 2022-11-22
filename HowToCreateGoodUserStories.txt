@@ -18,3 +18,6 @@ https://www.youtube.com/c/VibhorChandel/playlists
 
 business / Functional requirements
 https://coara.co/blog/business-requirements-vs-functional-requirements
+
+Success Cretria:
+https://rubygarage.org/blog/clear-acceptance-criteria-and-why-its-important
