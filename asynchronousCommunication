@@ -1,4 +1,5 @@
 Gloal organizations have challange in keeping the teams in sync which causes 
+  
   Lose of productivity
   Teams losses focus
 
@@ -8,32 +9,35 @@ Some of the factors
   Language differences
   Cultural difference
 
+Overcomming distributed team challanges
 
-Shared Comminucation channel
-  Slack
-  Teams
-  .. any chat/communities tool
+  Shared Comminucation channel
+    Slack
+    Teams
+    .. any chat/communities tool
 
-Shared Drive:
-  oneDrive
-  ..any shared storage
+  Shared Drive:
+    oneDrive
+    ..any shared storage
 
-Live content update
-  confluence
-  ..any web content management tools
-  
-FAQ
-  How do i do .....
-  Commenly asked questions
+  Live content update
+    confluence
+    ..any web content management tools
 
-Demos & Recordings
-  Where possible create demos & recordings
+  FAQ
+    How do i do .....
+    Commenly asked questions
 
-Weekly Sync
-  Have a recorded weekly Sync 
+  Demos & Recordings
+    Where possible create demos & recordings
 
-Align timezones
-  It avoids lag
-  
-Distributing responsibilities
-  Avoid spreding task in multiple timezone
+  Weekly Sync
+    Have a recorded weekly Sync 
+
+  Align timezones
+    It avoids lag
+
+  Distributing responsibilities
+    Avoid spreding task in multiple timezone
+    
+  Don't messup anyone's sleep because they are working in global teams    
