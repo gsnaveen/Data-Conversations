@@ -51,11 +51,11 @@ Reducing questions , Avoiding Cold start & Speeding up data convesation
 
 
 6) External reference data/information:
-	Using links for details:
+	Using links for details: (Confluence/Sharepoint/Jira/Ticket)
 		It is challenging to put all the detials in the email
 		share links to detail content
 
-	Attachments:
+	Attachments: (Sharepoint/google drive/Confuence)
 		attachments are a friction point
 		try to have small attachments
 		Excel file, have a summary data table in the email with details in attachements
