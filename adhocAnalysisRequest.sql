@@ -11,7 +11,7 @@ Step 6 Analyze the numeric Summary
 Step 7 find corelations
 Step 8 Attribute summary, 
           distint #Of Values 
-          #null rows 
+          #Of null rows 
           #Of Value rows
           Sample Values
 
