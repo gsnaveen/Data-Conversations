@@ -9,3 +9,10 @@ Step 4 Create one big flat table
 Step 5 Create summary entities
 Step 6 Analyze the Summary
 Step 7 find corelations
+
+
+cautions:
+  cartesian joins
+  one to many relationships
+  Nulls
+  conversions
