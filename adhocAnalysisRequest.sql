@@ -9,10 +9,14 @@ Step 4 Create one big flat table
 Step 5 Create summary entities
 Step 6 Analyze the numeric Summary
 Step 7 find corelations
-Step 8 Attribute summary, distint #Of Values, #null rows, #Of Value rows
+Step 8 Attribute summary, 
+          distint #Of Values 
+          #null rows 
+          #Of Value rows
+          Sample Values
 
 
-cautions:
+Cautions:
   cartesian joins
   one to many relationships
   Nulls
