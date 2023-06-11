@@ -22,3 +22,14 @@ Cautions:
   Nulls
   conversions/ casting
   
+Analysis:
+flags Yes, No
+
+YY
+NN
+
+
+buckets
+compare unique valuee across columns
+qnqlyiw across xolumns
+analysis across rows
