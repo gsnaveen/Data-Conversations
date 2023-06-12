@@ -41,6 +41,7 @@ Analysis:
 Presto SQL:
 , ARRAY[sales1] || ARRAY[sales2] || ARRAY[sales3] || array[sales4] ArrayValues
 , cardinality(ARRAY[sales1] || ARRAY[sales2] || ARRAY[sales3] || array[sales4]) ArrayValuesLength
+, cardinality(array_distinct(ARRAY[sales1] || ARRAY[sales2] || ARRAY[sales3] || array[sales4])) ArrayValuesLengthUnique
 ,concat(case when sales1 > 0 then 'Y' else 'N' end , 
 		case when sales2 > 0 then 'Y' else 'N' end ,
 		case when sales3 > 0 then 'Y' else 'N' end ,
