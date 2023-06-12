@@ -24,7 +24,7 @@ Summary:
 Cautions:
   cartesian joins
   one to many relationships
-  Nulls
+  Nulls means not present value
   conversions/ casting
   
 Analysis:
@@ -47,9 +47,8 @@ Presto SQL:
 
 Excel Ffunctions:
 =COUNTIF(C5:C215,"YES")
-=SUMIF(C5:C215,"YES")
 
-COUNTIFS, SUMIFS
+SUMIF,COUNTIFS, SUMIFS
 
 Xlookup
 
