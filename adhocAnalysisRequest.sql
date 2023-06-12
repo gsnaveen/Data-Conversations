@@ -28,6 +28,8 @@ Cautions:
   conversions/ casting
   
 Analysis:
+  Pivots/crosstabs
+  corelations
   flags Yes, No
   YYNN
   Buckets
