@@ -51,3 +51,6 @@ Excel Ffunctions:
 COUNTIFS, SUMIFS
 
 Xlookup
+
+https://careerfoundry.com/en/blog/data-analytics/data-analysis-in-excel/
+https://www.goskills.com/Excel/Resources/Most-useful-Excel-functions-for-data-analysis
