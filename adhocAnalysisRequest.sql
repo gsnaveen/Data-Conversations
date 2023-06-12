@@ -17,6 +17,7 @@ Step 8 Attribute summary,
 
 Summary:
 	# of layers for each dataset
+	List of Join related entities,big flat table
 	# of layers for the analytics datasets
 
 
