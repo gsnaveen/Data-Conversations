@@ -32,6 +32,8 @@ Analysis:
   corelations
   flags Yes, No
   YYNN
+  Rank
+  clustering
   Buckets
           compare unique across columns
           compare across columns
