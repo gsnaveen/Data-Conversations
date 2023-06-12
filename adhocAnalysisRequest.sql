@@ -23,13 +23,27 @@ Cautions:
   conversions/ casting
   
 Analysis:
-flags Yes, No
+  flags Yes, No
+  YYNN
+  Buckets
+          compare unique valuee across columns
+          qnqlyiw across xolumns
+          analysis across rows
 
-YY
-NN
 
+Presto SQL:
+, ARRAY[sales1] || ARRAY[sales2] || ARRAY[sales3] || array[sales4] ArrayValues
+, cardinality(ARRAY[sales1] || ARRAY[sales2] || ARRAY[sales3] || array[sales4]) ArrayValuesLength
+,concat(case when sales1 > 0 then 'Y' else 'N' end , 
+		case when sales2 > 0 then 'Y' else 'N' end ,
+		case when sales3 > 0 then 'Y' else 'N' end ,
+		case when sales4 > 0 then 'Y' else 'N' end
+) sales_Flag
 
-buckets
-compare unique valuee across columns
-qnqlyiw across xolumns
-analysis across rows
+Excel Ffunctions:
+=COUNTIF(C5:C215,"YES")
+=SUMIF(C5:C215,"YES")
+
+COUNTIFS, SUMIFS
+
+Xlookup
