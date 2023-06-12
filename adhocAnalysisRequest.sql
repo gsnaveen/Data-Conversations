@@ -15,6 +15,10 @@ Step 8 Attribute summary,
           #Of Value rows
           Sample Values
 
+Summary:
+	# of layers for each dataset
+	# of layers for the analytics datasets
+
 
 Cautions:
   cartesian joins
@@ -27,8 +31,8 @@ Analysis:
   YYNN
   Buckets
           compare unique valuee across columns
-          qnqlyiw across xolumns
-          analysis across rows
+          compare across columns
+          comapre across rows
 
 
 Presto SQL:
