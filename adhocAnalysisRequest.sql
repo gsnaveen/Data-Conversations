@@ -31,7 +31,7 @@ Analysis:
   flags Yes, No
   YYNN
   Buckets
-          compare unique valuee across columns
+          compare unique across columns
           compare across columns
           comapre across rows
 
