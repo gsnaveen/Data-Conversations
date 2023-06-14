@@ -14,6 +14,8 @@ Step 8 Attribute summary,
           #Of null rows 
           #Of Value rows
           Sample Values
+Step 9 Agree on Grain
+Step 10 Grain Flat dimension (flags at the grain)
 
 Summary:
 	# of layers for each dataset
