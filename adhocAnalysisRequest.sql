@@ -17,6 +17,9 @@ Step 8 Attribute summary,
 Step 9 Agree on Grain
 Step 10 Grain Flat dimension (flags at the grain)
 
+	Document data decisions
+	filter change or introduction
+
 Summary:
 	# of layers for each dataset
 	List of Join related entities,big flat table
