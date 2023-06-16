@@ -55,6 +55,11 @@ Presto SQL:
 		case when sales4 > 0 then 'Y' else 'N' end
 ) sales_Flag
 
+Bucketing :
+	select map_from_entries(array[('sales_num',sales_num),('opportunity_num',opportunity_num)]) 
+	,map_from_entries(array[('gt100',case when sales_num > 100 then 'YES' else 'NO' end ),('gt20', case when sales_num > 20 then 'YES' else 'NO' end )]) 
+	from entity 
+	
 Excel Ffunctions:
 =COUNTIF(C5:C215,"YES")
 
