@@ -9,4 +9,15 @@ Impact of the analysis
  
  What business action is driven by the stat/s
 
+Metrics buckets
+  running 3 months
+  QTR to date
+  last QTR
+  last 6 Months
+  last year
+  last 3 year
+  last 5 years
 
+
+MetadataSchema:
+https://github.com/gsnaveen/datadocs/blob/main/dataProductMetadataSchema
