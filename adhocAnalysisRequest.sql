@@ -8,10 +8,14 @@ Step 1 bring in the base data (multiple sources)
 		datatypes 
 		Nulls / NA
 		error values to make it consistent
+		data rules / transformation at column level
+		drived columns based on the base column
 	
 Step 2 align grain of the data
 Step 3 Join related entities
 Step 4 Create one big flat table
+	apply transformations
+	drived columns based on the base column
 Step 5 Create summary entities
 Step 6 Analyze the numeric Summary
 Step 7 find corelations
