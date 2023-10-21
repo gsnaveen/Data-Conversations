@@ -7,7 +7,9 @@
 5) new line character the value to be in ""
 6) Compression : GZIP
 7) Code page : UTF8
-8) Field Definition & Data Type
+8) Field Definition 
+9) Data Type
+10) Date format
 
 
 schema=None,
