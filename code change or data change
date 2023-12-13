@@ -1,3 +1,12 @@
 code change
+  it is script change which needs
+    compiling
+    testing
 
 data change 
+  it is configuration based coding.
+  the configurations are updated
+    it does not require code compiling
+    it does not require testing
+    production errors are reduced
+    Automation is enabled
