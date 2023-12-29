@@ -10,3 +10,12 @@ data change
     it does not require testing
     production errors are reduced
     Automation is enabled
+
+
+Write diving code which write coded based on a CSV/Excel/Google Sheets
+  this will let bsuiness user directly do the change
+  it can be 
+    mappings
+    case statements
+    if statements
+    calculations
