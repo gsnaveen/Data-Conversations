@@ -66,9 +66,10 @@ Presto SQL:
 		case when sales3 > 0 then 'Y' else 'N' end ,
 		case when sales4 > 0 then 'Y' else 'N' end
 ) sales_Flag
-	Percentile
-	SELECT APPPROX_PERCENTILE(count, 0.5) FROM ( SELECT COUNT(*) AS count, narrative_id FROM A_join_B GROUP BY B_id ) as counts;
-	https://stackoverflow.com/questions/48761066/presto-equivalent-for-redshifts-percentile-disc
+	
+Percentile
+SELECT APPPROX_PERCENTILE(count, 0.5) FROM ( SELECT COUNT(*) AS count, narrative_id FROM A_join_B GROUP BY B_id ) as counts;
+https://stackoverflow.com/questions/48761066/presto-equivalent-for-redshifts-percentile-disc
 
 Bucketing :
 	select map_from_entries(array[('sales_num',sales_num),('opportunity_num',opportunity_num)]) 
