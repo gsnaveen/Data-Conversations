@@ -1,0 +1,20 @@
+MDM - Master data Management
+  Customer
+  Products
+  GEO
+  Hierarchies
+  Accounts
+  Partners
+
+
+User defined metadata
+  Reference
+    groupings
+    classification
+  Operational/transaction
+
+user defined metadata should be managed using NoCode apps and should be directly stored in the database
+  it helps with data validation
+  understanding of meta data
+  used for improving the operations
+  used for defining new categories of data in MDM
