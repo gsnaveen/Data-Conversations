@@ -1,0 +1,18 @@
+Domain Driven Architecture
+
+Domain:
+Functions:
+Other Domains used:
+Entities:
+Attributes:
+
+Data Products : Curated Objects
+Reference Data  : for other domains to use
+Hierarchies     : Hierarchies in the domain
+
+Groupings/ Aggregations  :
+
+
+Source Applications :
+
+Data Transforamtions Rules :
