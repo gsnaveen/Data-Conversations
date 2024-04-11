@@ -23,6 +23,12 @@ Confluence:
 Domain
   Stakeholders
   Meta Data
+    Reference
+    Hierarchies
+    Transactions
+    Cross domain data use
+    Cross domain data provider
+    Business rules
   Functions
   Source
   Dashboards
