@@ -16,3 +16,35 @@ Groupings/ Aggregations  :
 Source Applications :
 
 Data Transforamtions Rules :
+
+
+Confluence:
+
+Domain
+  Stakeholders
+  Meta Data
+  Functions
+  Source
+  Dashboards
+  Release Notes
+  FAQ Business
+  FAQ Techinical
+  Support
+  Domain DevOps
+    Team
+    Recordings
+    Universal data model
+    Guidelines
+    OnBoarding 
+    Tools
+
+Data Products
+  Business Glossary
+  Data Catalog
+  Dashboards
+  Personas
+  Use Case
+  Support Process
+  User story intake process
+  FAQ
+
