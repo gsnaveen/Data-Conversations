@@ -15,7 +15,6 @@ Source Applications :
 Data Transforamtions Rules :
 
 
-Confluence:
 
 Domain
   Stakeholders
