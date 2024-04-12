@@ -9,7 +9,6 @@ How to have data coversations using tools and best practices for communication.
 ## Documentation
   [Confluence](https://github.com/gsnaveen/Data-Conversations/blob/main/Confluence%20documentation),
   [JIRA](https://github.com/gsnaveen/Data-Conversations/blob/main/JIRA),
-  Shared Storage,
   [Visualization tools](https://github.com/gsnaveen/Data-Conversations/blob/main/visual%20collaboration) 
 
   
