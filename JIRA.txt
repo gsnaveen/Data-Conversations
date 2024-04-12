@@ -1,0 +1,25 @@
+Issue Types in JIRA
+  Epic
+    Stakeholder
+    Stakeholder function
+    Source Application
+  Story
+    Analysis , POC
+    If not a enhancemet or new feature
+  Improvement
+    Enhancement can be marked as improvement
+  New Feature
+    adding new functionility
+    New Metrics
+    New Attribute
+    (there is a blurry like between enhancement and new feature)
+  Task
+    effort less than 1 story point
+  Bug
+    Error and Issues that needs fixing
+
+
+Task ---> New feature
+Story --> Improvement
+
+https://support.atlassian.com/jira-service-management-cloud/docs/use-advanced-search-with-jira-query-language-jql/
