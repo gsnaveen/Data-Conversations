@@ -20,5 +20,8 @@ Tabs on a page (making it look compact)
 labels
   for catagorizing content
 
+Individual Conflunce Page for comminucation
+  for any current activities and projects
+
 Create a template for project/engagement
   copy the template with a prefix
