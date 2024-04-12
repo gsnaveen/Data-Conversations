@@ -5,13 +5,12 @@ Zero maintenance Enterprise is just a concept which leads a organization to mini
 Following are some of the concepts which will lead to a lower cost of support and maintenance.
 
 1) Design.
-
 2) Self Service.
-
 3) Smart Employees willing to work as a team.
 
-1) Design.
 
+
+1) Design.
   It all starts with the design.. weather it's a Process or a Product.
   Apple is known for it's Product design
   GE is known for processes and good products.
@@ -19,7 +18,6 @@ Following are some of the concepts which will lead to a lower cost of support an
   If a organization has good processes and a good product by design no one can stop that company to be the leader in its category.
 
 2) Self Service.
-
   Self Service can help a organization to minimize its support spending and make processes very direct. This helps a organization to reach a resolution quickly and in a efficient manner.
 
 
