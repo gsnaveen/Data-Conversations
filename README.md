@@ -3,11 +3,11 @@
 How to have data coversations using tools and best practices for communication.
 
 ## Data First
-  [Data Products](https://github.com/gsnaveen/Data-Conversations/blob/main/dataProducts),
-  [Data is priority](https://github.com/gsnaveen/Data-Conversations/blob/main/dataPriority),
-  [How to data question](https://github.com/gsnaveen/Data-Conversations/blob/main/turningEveryQuestionIntoDataQuestion),
-  [Email for data questions](https://github.com/gsnaveen/Data-Conversations/blob/main/emailTalkingData),
-  [Master Data Management](https://github.com/gsnaveen/Data-Conversations/blob/main/MDM%20Reference%20data)
+  [Data Products](/dataProducts),
+  [Data is priority](/dataPriority),
+  [How to data question](/turningEveryQuestionIntoDataQuestion),
+  [Email for data questions](/emailTalkingData),
+  [Master Data Management](/MDM%20Reference%20data)
   
   
 ## Collobration
