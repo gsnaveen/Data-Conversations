@@ -20,4 +20,6 @@ How to have data coversations using tools and best practices for communication.
   Shared Storage,
   Visualization tools
 
+## Others  
+
 
