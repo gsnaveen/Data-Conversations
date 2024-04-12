@@ -14,4 +14,10 @@ Details on data conversations
 
 ## Analytics
 
+## Tools
+  Confluence
+  JIRA
+  Shared Storage
+  Visualization tools
+
 
