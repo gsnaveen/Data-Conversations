@@ -10,15 +10,15 @@ How to have data coversations using tools and best practices for communication.
   [Master Data Management](https://github.com/gsnaveen/Data-Conversations/blob/main/MDM%20Reference%20data)
   
   
-## Documentation
+## Collobration
   [Confluence](https://github.com/gsnaveen/Data-Conversations/blob/main/Confluence%20documentation),
   [JIRA](https://github.com/gsnaveen/Data-Conversations/blob/main/JIRA),
-  [Visual Collobration](https://github.com/gsnaveen/Data-Conversations/blob/main/visual%20collaboration) 
+  [Visual](https://github.com/gsnaveen/Data-Conversations/blob/main/visual%20collaboration),
+  [data working session](https://github.com/gsnaveen/Data-Conversations/blob/main/workingSessionData),
+  [Asynchronous Communication](https://github.com/gsnaveen/Data-Conversations/blob/main/asynchronousCommunication),
 
   
 ## Process
-  [data working session](https://github.com/gsnaveen/Data-Conversations/blob/main/workingSessionData),
-  [Asynchronous Communication](https://github.com/gsnaveen/Data-Conversations/blob/main/asynchronousCommunication),
   [User Stories](https://github.com/gsnaveen/Data-Conversations/blob/main/HowToCreateGoodUserStories),
   [Process Improvement](https://github.com/gsnaveen/Data-Conversations/blob/main/Process%20Improvemwents)
 
@@ -62,7 +62,7 @@ How to have data coversations using tools and best practices for communication.
   [What is a good question?](https://github.com/gsnaveen/Data-Conversations/blob/main/What%20Is%20a%20Good%20Question)
 
 ## Articles
-  [Making it Easy for Customers (Simple is Hard)](),
+  [Making it Easy for Customers (Simple is Hard)](/Articles/Making%20it%20Easy%20for%20Customers%20(Simple%20is%20Hard).md),
   [Process and Innovation hand in hand](),
   [Process can be incomplete good or bad](),
   [Short Term gains with Long Term Strategy](),
