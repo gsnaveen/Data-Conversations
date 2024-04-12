@@ -8,12 +8,12 @@ Following are some of the concepts which will lead to a lower cost of support an
 2) Self Service.
 3) Smart Employees willing to work as a team.
 
-
+----------------------------------------------------------------------------------------------
 
 1) Design.
   It all starts with the design.. weather it's a Process or a Product.
-  Apple is known for it's Product design
-  GE is known for processes and good products.
+    Apple is known for it's Product design
+    GE is known for processes and good products.
 
   If a organization has good processes and a good product by design no one can stop that company to be the leader in its category.
 
