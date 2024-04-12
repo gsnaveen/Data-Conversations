@@ -25,7 +25,9 @@ How to have data coversations using tools and best practices for communication.
     
 ## Data cataloging (Meta data)
   [Reverse Engineering Business Vocabulary](https://github.com/gsnaveen/Data-Conversations/blob/main/reverseEngineeringBusinessVocab),
-  [Data Product Catalog](https://github.com/gsnaveen/Data-Conversations/blob/main/dataProductMetadataSchema)
+  [Data Product Catalog](https://github.com/gsnaveen/Data-Conversations/blob/main/dataProductMetadataSchema),
+  [Tableau Metadata](https://github.com/gsnaveen/scala-java-python/blob/master/tableau_metadata.py),
+  [Business Objects Metadata](https://github.com/gsnaveen/scala-java-python/blob/master/bobjBusinessLayerExport.py)
 
   
 ## Data Engineering
@@ -57,4 +59,7 @@ How to have data coversations using tools and best practices for communication.
   [Data Lead Profile](https://github.com/gsnaveen/Data-Conversations/blob/main/dataLeadProfile),
   [General Good Practice](https://github.com/gsnaveen/Data-Conversations/blob/main/GeneralGoodPractices.sql),
   [What is a good question?](https://github.com/gsnaveen/Data-Conversations/blob/main/What%20Is%20a%20Good%20Question)
+
+## Articles
+  
 
