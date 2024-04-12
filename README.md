@@ -6,4 +6,12 @@ Details on data conversations
 
 ## Documentation
 
+## Process
+
+## Data cataloging (Meta data)
+
+## Data Engineering
+
+## Analytics
+
 
