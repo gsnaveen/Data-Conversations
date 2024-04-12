@@ -22,4 +22,12 @@ Issue Types in JIRA
 Task ---> New feature
 Story --> Improvement
 
+Engineer's Dashboard
+  focusing on all the activities
+  split of New Feature, Improvements, task and bugs
+    Story points
+    Stage of work in progress
+  Epic split (Pie chart) to show contribution
+ 
+
 https://support.atlassian.com/jira-service-management-cloud/docs/use-advanced-search-with-jira-query-language-jql/
