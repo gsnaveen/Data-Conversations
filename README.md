@@ -2,7 +2,7 @@
 
 How to have data coversations using tools and best practices for communication.
 
-## Data 
+## Data First
 
 ## Documentation
 
