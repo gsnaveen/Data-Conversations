@@ -3,8 +3,9 @@
 How to have data coversations using tools and best practices for communication.
 
 ## Data First
+  [Data Products](https://github.com/gsnaveen/Data-Conversations/blob/main/dataProducts)
   [How to data question](https://github.com/gsnaveen/Data-Conversations/blob/main/turningEveryQuestionIntoDataQuestion)
-
+  
   
 ## Documentation
   [Confluence](https://github.com/gsnaveen/Data-Conversations/blob/main/Confluence%20documentation),
