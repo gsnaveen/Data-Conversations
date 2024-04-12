@@ -3,22 +3,28 @@
 How to have data coversations using tools and best practices for communication.
 
 ## Data First
-
+  [How to data question](https://github.com/gsnaveen/Data-Conversations/blob/main/turningEveryQuestionIntoDataQuestion)
+  
 ## Documentation
 
 ## Process
+    [data working session](https://github.com/gsnaveen/Data-Conversations/blob/main/workingSessionData)
 
+    
 ## Data cataloging (Meta data)
 
 ## Data Engineering
+  [Universal Data Model](https://github.com/gsnaveen/Data-Conversations/blob/main/UniversalDataModels)
 
 ## Analytics
-
+  [Adhoc Analytics](https://github.com/gsnaveen/Data-Conversations/blob/main/adhocAnalysisRequest.sql)
+  [Descriptive & Discovery ](https://github.com/gsnaveen/Data-Conversations/blob/main/descriptiveAnalytics%26Discovery)
+  
 ## Tools
-  [Confluence](https://github.com/gsnaveen/Data-Conversations/blob/main/Confluence%20documentation.txt),
-  [JIRA](https://github.com/gsnaveen/Data-Conversations/blob/main/JIRA.txt),
+  [Confluence](https://github.com/gsnaveen/Data-Conversations/blob/main/Confluence%20documentation),
+  [JIRA](https://github.com/gsnaveen/Data-Conversations/blob/main/JIRA),
   Shared Storage,
-  [Visualization tools](https://github.com/gsnaveen/Data-Conversations/blob/main/visual%20collaboration.txt) 
+  [Visualization tools](https://github.com/gsnaveen/Data-Conversations/blob/main/visual%20collaboration) 
 
 ## Others  
 
