@@ -35,7 +35,7 @@ How to have data coversations using tools and best practices for communication.
   [Confluence](https://github.com/gsnaveen/Data-Conversations/blob/main/Confluence%20documentation),
   [JIRA](https://github.com/gsnaveen/Data-Conversations/blob/main/JIRA),
   [Dbeaver](https://dbeaver.io/),
-  [Visualization tools](https://github.com/gsnaveen/Data-Conversations/blob/main/visual%20collaboration) 
+  [Visualization Collobration](https://github.com/gsnaveen/Data-Conversations/blob/main/visual%20collaboration) 
 
 
 ## Others  
