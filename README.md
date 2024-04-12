@@ -35,7 +35,10 @@ How to have data coversations using tools and best practices for communication.
   [Confluence](https://github.com/gsnaveen/Data-Conversations/blob/main/Confluence%20documentation),
   [JIRA](https://github.com/gsnaveen/Data-Conversations/blob/main/JIRA),
   [Dbeaver](https://dbeaver.io/),
-  [Visual Collobration](https://github.com/gsnaveen/Data-Conversations/blob/main/visual%20collaboration) 
+  [Visual Collobration](https://github.com/gsnaveen/Data-Conversations/blob/main/visual%20collaboration) ,
+  [D3.js](https://d3js.org/),
+  [DC.js](https://dc-js.github.io/dc.js/),
+  [Tableau Public](https://public.tableau.com/app/discover)
 
 
 ## Others  
