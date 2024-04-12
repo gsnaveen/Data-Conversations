@@ -4,7 +4,10 @@ How to have data coversations using tools and best practices for communication.
 
 ## Data First
   [Data Products](https://github.com/gsnaveen/Data-Conversations/blob/main/dataProducts),
-  [How to data question](https://github.com/gsnaveen/Data-Conversations/blob/main/turningEveryQuestionIntoDataQuestion)
+  [Data is priority](https://github.com/gsnaveen/Data-Conversations/blob/main/dataPriority),
+  [How to data question](https://github.com/gsnaveen/Data-Conversations/blob/main/turningEveryQuestionIntoDataQuestion),
+  [Email for data questions](https://github.com/gsnaveen/Data-Conversations/blob/main/emailTalkingData),
+  [Master Data Management](https://github.com/gsnaveen/Data-Conversations/blob/main/MDM%20Reference%20data)
   
   
 ## Documentation
@@ -15,16 +18,25 @@ How to have data coversations using tools and best practices for communication.
   
 ## Process
   [data working session](https://github.com/gsnaveen/Data-Conversations/blob/main/workingSessionData),
-  [Asynchronous Communication](https://github.com/gsnaveen/Data-Conversations/blob/main/asynchronousCommunication)
+  [Asynchronous Communication](https://github.com/gsnaveen/Data-Conversations/blob/main/asynchronousCommunication),
+  [User Stories](https://github.com/gsnaveen/Data-Conversations/blob/main/HowToCreateGoodUserStories),
+  [Process Improvement](https://github.com/gsnaveen/Data-Conversations/blob/main/Process%20Improvemwents)
+
     
 ## Data cataloging (Meta data)
   [Reverse Engineering Business Vocabulary](https://github.com/gsnaveen/Data-Conversations/blob/main/reverseEngineeringBusinessVocab),
   [Data Product Catalog](https://github.com/gsnaveen/Data-Conversations/blob/main/dataProductMetadataSchema)
+
   
 ## Data Engineering
   [Domain Driven Architecture](https://github.com/gsnaveen/Data-Conversations/blob/main/Domain%20Driven%20Architecture),
   [Universal Data Model](https://github.com/gsnaveen/Data-Conversations/blob/main/UniversalDataModels),
-  [Should you do Data or Code change](https://github.com/gsnaveen/Data-Conversations/blob/main/code%20change%20or%20data%20change)
+  [Should you do Data or Code change](https://github.com/gsnaveen/Data-Conversations/blob/main/code%20change%20or%20data%20change),
+  [SQL Guidelines](https://github.com/gsnaveen/Data-Conversations/blob/main/SQL%20Guidelines),
+  [DeConstructing SQL](https://github.com/gsnaveen/Data-Conversations/blob/main/deConstructingSQL),
+  [Generalizing Design](https://github.com/gsnaveen/Data-Conversations/blob/main/generalizeButKeepDetails),
+  [Requesting Data Export](https://github.com/gsnaveen/Data-Conversations/blob/main/requestingExportFile)
+
 
 ## Analytics
   [Adhoc Analytics](https://github.com/gsnaveen/Data-Conversations/blob/main/adhocAnalysisRequest.sql),
@@ -42,5 +54,7 @@ How to have data coversations using tools and best practices for communication.
 
 
 ## Others  
-  [Data Lead Profile](https://github.com/gsnaveen/Data-Conversations/blob/main/dataLeadProfile)
+  [Data Lead Profile](https://github.com/gsnaveen/Data-Conversations/blob/main/dataLeadProfile),
+  [General Good Practice](https://github.com/gsnaveen/Data-Conversations/blob/main/GeneralGoodPractices.sql),
+  [What is a good question?](https://github.com/gsnaveen/Data-Conversations/blob/main/What%20Is%20a%20Good%20Question)
 
