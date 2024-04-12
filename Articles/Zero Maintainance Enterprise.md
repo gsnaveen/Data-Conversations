@@ -20,7 +20,7 @@ Following are some of the concepts which will lead to a lower cost of support an
 
 3) Self Service.
    
-  Self Service can help a organization to minimize its support spending and make processes very direct. This helps a organization to reach a resolution quickly and in a efficient manner.
+      Self Service can help a organization to minimize its support spending and make processes very direct. This helps a organization to reach a resolution quickly and in a efficient manner.
 
 
 4) Smart Employees willing to work as a team.
