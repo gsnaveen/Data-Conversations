@@ -1,6 +1,6 @@
 # Data Conversations
 
-Details on data conversations
+How to have data coversations using tools and best practices for communication.
 
 ## Data 
 
