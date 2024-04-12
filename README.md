@@ -26,6 +26,7 @@ How to have data coversations using tools and best practices for communication.
 ## Data cataloging (Meta data)
   [Reverse Engineering Business Vocabulary](https://github.com/gsnaveen/Data-Conversations/blob/main/reverseEngineeringBusinessVocab),
   [Data Product Catalog](https://github.com/gsnaveen/Data-Conversations/blob/main/dataProductMetadataSchema),
+  [Hive Metadata](https://github.com/gsnaveen/Hive-Database-Entity-Attributes-Json-CSV),
   [Tableau Metadata](https://github.com/gsnaveen/scala-java-python/blob/master/tableau_metadata.py),
   [Business Objects Metadata](https://github.com/gsnaveen/scala-java-python/blob/master/bobjBusinessLayerExport.py)
 
@@ -61,5 +62,11 @@ How to have data coversations using tools and best practices for communication.
   [What is a good question?](https://github.com/gsnaveen/Data-Conversations/blob/main/What%20Is%20a%20Good%20Question)
 
 ## Articles
-  
+  [Making it Easy for Customers (Simple is Hard)](),
+  [Process and Innovation hand in hand](),
+  [Process can be incomplete good or bad](),
+  [Short Term gains with Long Term Strategy](),
+  [Speed of Big Data Discovery](),
+  [Why Process is king for enterprise](),
+  [Zero Maintainance Enterprise]()
 
