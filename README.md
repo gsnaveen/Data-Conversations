@@ -23,7 +23,7 @@ How to have data coversations using tools and best practices for communication.
   [Process Improvement](/Process%20Improvemwents)
 
     
-## Data cataloging (Meta data)
+## Data Cataloging (Meta data)
   [Reverse Engineering Business Vocabulary](/reverseEngineeringBusinessVocab),
   [Data Product Catalog](/dataProductMetadataSchema),
   [Hive Metadata](https://github.com/gsnaveen/Hive-Database-Entity-Attributes-Json-CSV),
