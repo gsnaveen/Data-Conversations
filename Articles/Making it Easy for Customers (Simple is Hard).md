@@ -8,11 +8,11 @@ Using Machine learning, statistics and Human intelligence we can come up with a 
 
 If customers is happy.. they buy more, they love you , they recommend you and become an evangelist of your product.. That is free marketing as we have made the user feel enchanted.. this in someways is the main goal for any company to exist. Following are some of the companies and their products that have freed us from the clunky way of doing things.. help us grow and make our life better which is essential for human growth and make this world a better place.
 
-Amazon : "Buy Now with 1 click"
-Apple : The Amazing Phone .
-Google : The search results and the speed of search engine.
-Tesla : The Amazing electric care
+* Amazon : "Buy Now with 1 click"
+* Apple : The Amazing Phone .
+* Google : The search results and the speed of search engine.
+* Tesla : The Amazing electric care
 
-This can be accomplished by going deeper into the mind and the task to come-up with a better way of doing things in life.
+This can be achieved by going deeper into the mind and the task. This helps in coming-up with a better way of doing things in life.
 
-This is an amazing field to study as there is no end to it and we can become a reason of happiness for our consumers.
+This is an amazing field to study as there is no end to it. We can become a reason of happiness for our consumers.
