@@ -65,7 +65,7 @@ How to have data coversations using tools and best practices for communication.
 
 ## Articles
   1. [Making it Easy for Customers (Simple is Hard)](/Articles/Making%20it%20Easy%20for%20Customers%20(Simple%20is%20Hard).md)
-  2. [Process and Innovation hand in hand](/Articles/Process%20and%20Innovation%20hand%20in%20hand.md)
+  2. [Process and Innovation Enterprise](/Articles/Process%20and%20Innovation%20Enterprise.md)
   3. [Process can be incomplete good or bad](/Articles/Process%20can%20be%20incomplete%20good%20or%20bad.md)
   4. [Short Term gains with Long Term Strategy](/Articles/Short%20Term%20gains%20with%20Long%20Term%20Strategy.md)
   5. [Speed of Big Data Discovery](/Articles/Speed%20of%20Big%20Data%20Discovery.md)
