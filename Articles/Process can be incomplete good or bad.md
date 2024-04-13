@@ -1,5 +1,5 @@
-Process can be defined as steps to accomplish a task in an efficient and reliable manner.
-Processed can be good they may be incomplete or simply it could be bad. It all depends on what we are planning to do and how we are planning to execute it. I am using a credit card request to activation process to explain how we can have a good, incomplete or a bad process. Let’s assume that Step 1-7 is the best ways of getting this process done.
+### Process can be defined as steps to accomplish a task in an efficient and reliable manner.
+Processed can be good, they may be incomplete or simply it could be bad. It all depends on what we are planning to do and how we are planning to execute it. I am using a credit card request to activation process to explain how we can have a good, incomplete or a bad process. Let’s assume that Step 1-7 is the best ways of getting this process done.
 
 
 * Step 1 Customer requests for a Credit Card.
