@@ -4,7 +4,7 @@ Long term success is a must, but it needs to be aided by short term gains which 
 
 One has to have a long term strategy which could span for a term of 5 years. Short term initiatives which has deliverable for 1 year  or shorter and better execution.
 
-### Longer Strategy could be
+### Long term Strategy could be
 * Among Top 3 in their field.
 * Diversify into related areas.
 * Enter new markets.
