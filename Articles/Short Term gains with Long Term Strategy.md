@@ -4,18 +4,25 @@ Long term success is a must, but it needs to be aided by short term gains which 
 
 One has to have a long term strategy which could span for a term of 5 years. Short term initiatives which has deliverable for 1 year  or shorter and better execution.
 
-Longer Strategy could be
-Among Top 3 in their field.
-Diversify into related areas.
-Enter new markets.
-Improve Productivity.
-Better product stream.
+### Longer Strategy could be
+* Among Top 3 in their field.
+* Diversify into related areas.
+* Enter new markets.
+* Improve Productivity.
+* Better product stream.
 
-Short term strategy could be
-Better sales.
-Streamline processes.
-Improve productivity.
-Related New product introduction.
-Reducing operational costs.
-Improve customer satisfaction.
-When we are able to deliver short term goals it builds confidence in the ,  continuously improve execution, keep in touch with the market realities and increase the stock price which helps an organization to be able to raise more money for expansion and execution of long term strategy.
+### Short term strategy could be
+* Better sales.
+* Streamline processes.
+* Improve productivity.
+* Related New product introduction.
+* Reducing operational costs.
+* Improve customer satisfaction.
+  
+### When we are able to deliver short term goals 
+* it builds confidence
+* continuously improve execution
+* keep in touch with the market realities
+* increase the stock price
+
+These all helps an organization to be able to raise more money for expansion and execution of long term strategy.
