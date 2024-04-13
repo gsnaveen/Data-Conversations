@@ -12,7 +12,7 @@ Following are some of the concepts which will lead to a lower cost of support an
 
 1) Design.
    
-  * It all starts with the design.. weather it's a Process or a Product.
+   It all starts with the design.. weather it's a Process or a Product.
     * Apple is known for it's Product design.
     * GE is known for processes and good products.
       
