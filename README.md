@@ -57,7 +57,8 @@ How to have data coversations using tools and best practices for communication a
   [DC.js](https://dc-js.github.io/dc.js/),
   [Tableau Public](https://public.tableau.com/app/discover),
   [RoughViz](https://github.com/jwilber/roughViz),
-  [GraphViz](https://graphviz.org/)
+  [GraphViz](https://graphviz.org/),
+  [InfoGraphics](https://marinebon.github.io/infographiqJS/)
 
 
 ## Others  
