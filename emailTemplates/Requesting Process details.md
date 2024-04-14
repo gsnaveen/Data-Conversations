@@ -11,7 +11,7 @@ Subject : Details of {Process}
    
   ### Details about
   1. Applications 
-  2. Analytics
+  2. Analytics (data lakes)
   3. Support
   
   ### Artifacts that can be asked for
