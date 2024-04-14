@@ -1,4 +1,4 @@
-A bigger problem cannot be solved elegantly unless broken down into a set of smaller problems. Following is a step process to break problems into steps for managing the complexity.
+A bigger problem cannot be solved elegantly unless broken down into a set of smaller problems. Following is a step process to break problems into steps for managing the complexity. This is a bit subjective based on the soure of data and question asked.
 
 ### Level 1
 1. Get base data
