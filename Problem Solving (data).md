@@ -15,4 +15,4 @@ A bigger problem cannot be solved elegantly unless broken down into a set of sma
 2. Expand data to adjacencies 
 
 
-### [Layering data processing ](/adhocAnalysisRequest.sql)
+### [How to Layer data processing ](/adhocAnalysisRequest.sql)
