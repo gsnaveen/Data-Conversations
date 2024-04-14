@@ -7,8 +7,8 @@ A bigger problem cannot be solved elegantly unless broken down into a set of sma
 
 ### Level 2
 1. Correlation between attributes / metrices
-2. Flags
-3. Summaries
+2. Summaries
+3. Flags
 
 ### Level 3
 1. Bringing other sources
