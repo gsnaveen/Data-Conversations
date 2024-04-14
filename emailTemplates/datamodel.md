@@ -1,4 +1,4 @@
-Subject : Request of Data model for {Appication}
+Subject : Request of Data model for {Domain}{Appication}
  
 Application:
         Data Lake
@@ -10,13 +10,15 @@ Application:
 
 Hi Team,
 
-I am trying to get a better understanding of {Application}. Can you please help me with the following details.
+I am trying to get a better understanding of {Domain}{Application}. Can you please help me with the following details.
 
 Data Modal : Which includs 
                 Entities
                 Relationships
                 Grain
                 Data types
+                Sample values
+                Null/not Null counts
                 Type of entitiy 
                         Dimesnion
                         Fact
