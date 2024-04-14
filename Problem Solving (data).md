@@ -16,3 +16,4 @@ A bigger problem cannot be solved elegantly unless broken down into a set of sma
 
 
 ### [How to Layer data processing ](/adhocAnalysisRequest.sql)
+![ProblemSolvingData](/images/ProblemSolvingData.jpg)
