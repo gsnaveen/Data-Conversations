@@ -1,9 +1,9 @@
 A bigger problem cannot be solved elegantly unless broken down into a set of smaller problems
 
 ### Level 1
-1. Getting the base data
+1. Get base data
 2. Data cleanse
-3. Standardizing the values
+3. Standardizing values
 
 ### Level 2
 1. Correlation between attributes / metrices
