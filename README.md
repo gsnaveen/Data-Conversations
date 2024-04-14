@@ -7,10 +7,11 @@ How to have data coversations using tools and best practices for communication a
   [Data is priority](/dataPriority),
   [How to data question](/turningEveryQuestionIntoDataQuestion),
   [Email for data questions](/emailTalkingData),
-  [Master Data Management](/MDM%20Reference%20data)
+  [Master Data Management](/MDM%20Reference%20data),
+  [Email templates](/emailTemplates)
   
   
-## Collobration
+## Collaboration
   [Confluence](/Confluence%20documentation),
   [JIRA](/JIRA),
   [Visual](/visual%20collaboration),
