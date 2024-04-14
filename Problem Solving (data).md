@@ -15,5 +15,5 @@ A bigger problem cannot be solved elegantly unless broken down into a set of sma
 2. Expand data to adjacencies 
 
 
-### [How to Layer data processing ](/adhocAnalysisRequest.sql)
+### [Steps : How to Layer data processing ](/adhocAnalysisRequest.sql)
 ![ProblemSolvingData](/images/ProblemSolvingData.jpg)
