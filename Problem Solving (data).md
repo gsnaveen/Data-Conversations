@@ -6,7 +6,7 @@ A bigger problem cannot be solved elegantly unless broken down into a set of sma
 3. Standardizing the values
 
 ### Level 2
-1. Correlation between the attributes
+1. Correlation between attributes / metrices
 2. Flags
 3. Summaries
 
