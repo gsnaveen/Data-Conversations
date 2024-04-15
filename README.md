@@ -22,7 +22,7 @@ How to have data coversations using tools and best practices for communication a
 ## Process
   [User Stories](/HowToCreateGoodUserStories),
   [Process Improvement](/Process%20Improvemwents.md),
-  [Analytics Problem Solving (data)](/Data%20Pipeline%20for%20Analytics.md)
+  [Business Question (data)](/Data%20Pipeline%20for%20Business%20Question.md)
 
     
 ## Data Cataloging (Meta data)
