@@ -1,4 +1,4 @@
-# Data Conversations (Let data speak)
+# Data Conversations (Let data speak) Follow the data
 
 How to have data coversations using tools and best practices for communication and let data speak.
 
