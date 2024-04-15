@@ -5,7 +5,7 @@ How to have data coversations using tools and best practices for communication a
 ## Data First
   [Data Products](/dataProducts),
   [Data is priority](/dataPriority),
-  [How to data question](/turningEveryQuestionIntoDataQuestion),
+  [How to data question](/turningEveryQuestionIntoDataQuestion.md),
   [Email for data questions](/emailTalkingData),
   [Master Data Management](/MDM%20Reference%20data),
   [Email templates](/emailTemplates)
