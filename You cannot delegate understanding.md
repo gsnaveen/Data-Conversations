@@ -1,0 +1,1 @@
+You Cannot Delegate Understanding 
