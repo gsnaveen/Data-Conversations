@@ -37,10 +37,11 @@ How to have data coversations using tools and best practices for communication a
   [Domain Driven Architecture](/Domain%20Driven%20Architecture),
   [Universal Data Model](/UniversalDataModels),
   [Should you do Data or Code change](/code%20change%20or%20data%20change),
+  [Design for debugging](/Designing%20for%20Debugging.md)
   [SQL Guidelines](/SQL%20Guidelines),
   [DeConstructing SQL](/deConstructingSQL),
   [Generalizing Design](/generalizeButKeepDetails),
-  [Requesting Data Export](/requestingExportFile)
+  [Requesting Data Export](/requestingExportFile),
 
 
 ## Analytics
