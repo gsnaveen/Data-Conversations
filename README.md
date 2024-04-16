@@ -17,7 +17,7 @@ How to have data coversations using tools and best practices for communication a
   [JIRA](/JIRA),
   [Visual](/visual%20collaboration),
   [data working session](/workingSessionData),
-  [Asynchronous Communication](/asynchronousCommunication),
+  [Asynchronous Communication](/asynchronousCommunication)
 
   
 ## Process
