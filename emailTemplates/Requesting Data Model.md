@@ -27,6 +27,12 @@ I am trying to get a better understanding of {Domain}{Application}. Can you plea
              5. Transactional
              6. Reporting
              7. Curated
+
+### Data Lineage         
+    1. Source application
+    2. Processing stages
+    3. 
+
  if possible a confluence/sharepoint page with any details will be helpful as well.
  
 ### Contacts for:
