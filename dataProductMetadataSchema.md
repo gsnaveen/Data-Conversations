@@ -1,12 +1,12 @@
 ### Meta data related to product
 
-Entities
-Attributes
-Null Values
-Distince Value count
-top 100-to-250 values
-Number of records in entity
-Relationships
+1. Entities
+2. Attributes
+3. Null Values
+4. Distince Value count
+5. top 100-to-250 values
+6. Number of records in entity
+7. Relationships
 
 ### Cloud Vendors
 1. https://azure.microsoft.com/en-us/products/data-catalog/
