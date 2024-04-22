@@ -28,7 +28,7 @@ How to have data coversations using tools and best practices for communication a
     
 ## Data Cataloging (Meta data)
   [Reverse Engineering Business Vocabulary](/reverseEngineeringBusinessVocab),
-  [Data Product Catalog](/dataProductMetadataSchema),
+  [Data Product Catalog](/dataProductMetadataSchema.md),
   [Hive Metadata](https://github.com/gsnaveen/Hive-Database-Entity-Attributes-Json-CSV),
   [Tableau Metadata](/tableau_metadata.py),
   [Business Objects Metadata](/bobjBusinessLayerExport.py)
