@@ -1,4 +1,4 @@
-Meta data related to product
+### Meta data related to product
 
 Entities
 Attributes
@@ -8,12 +8,12 @@ top 100-to-250 values
 Number of records in entity
 Relationships
 
-Cloud Vendors
-https://azure.microsoft.com/en-us/products/data-catalog/
-https://aws.amazon.com/solutions/analytics/data-catalog/
-https://cloud.google.com/data-catalog/docs/concepts/overview/
+### Cloud Vendors
+1. https://azure.microsoft.com/en-us/products/data-catalog/
+2. https://aws.amazon.com/solutions/analytics/data-catalog/
+3. https://cloud.google.com/data-catalog/docs/concepts/overview/
 
-Enterprise Vendors
-https://atlan.com/
-https://www.alation.com/
-https://www.collibra.com/
+### Enterprise Vendors
+1. https://atlan.com/
+2. https://www.alation.com/
+3. https://www.collibra.com/
