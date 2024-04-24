@@ -53,8 +53,8 @@ How to have data coversations using tools and best practices for communication a
 ## Tools
   [Confluence](/Confluence%20documentation),
   [JIRA](/JIRA),
-  [Dbeaver](https://dbeaver.io/),
   [Visual Collaboration](/visual%20collaboration) ,
+  [Dbeaver](https://dbeaver.io/),
   [D3.js](https://d3js.org/),
   [DC.js](https://dc-js.github.io/dc.js/),
   [Tableau Public](https://public.tableau.com/app/discover),
