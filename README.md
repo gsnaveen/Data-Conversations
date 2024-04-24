@@ -1,6 +1,6 @@
 # Data Conversations (Let data speak) Follow the data
 
-How to have data coversations using tools and best practices for communication and let data speak.
+How to have data coversations using tools and best practices for communication to let data speak.
 
 ## Data First
   [Data Products](/dataProducts),
