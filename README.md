@@ -70,7 +70,7 @@ How to have data coversations using tools and best practices for communication t
 
 ## Articles
   1. [Making it Easy for Customers (Simple is Hard)](/Articles/Making%20it%20Easy%20for%20Customers%20(Simple%20is%20Hard).md)
-  2. [Why Process is king for enterprise](/Articles/Why%20Process%20is%20king%20for%20enterprise.md)
+  2. [Why Process is king for Enterprise](/Articles/Why%20Process%20is%20king%20for%20enterprise.md)
   3. [Process and Innovation Enterprise](/Articles/Process%20and%20Innovation%20Enterprise.md)
   4. [Process can be incomplete good or bad](/Articles/Process%20can%20be%20incomplete%20good%20or%20bad.md)
   5. [Short Term gains with Long Term Strategy](/Articles/Short%20Term%20gains%20with%20Long%20Term%20Strategy.md)
