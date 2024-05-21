@@ -17,7 +17,7 @@ How to have data coversations using tools and best practices for communication t
   [JIRA](/JIRA),
   [Visual](/visual%20collaboration),
   [data working session](/workingSessionData),
-  [Asynchronous Communication](/asynchronousCommunication)
+  [Asynchronous Communication](/asynchronousCommunication.md)
 
   
 ## Process
@@ -64,7 +64,7 @@ How to have data coversations using tools and best practices for communication t
 
 
 ## Others  
-  [Data Lead Profile](/dataLeadProfile),
+  [Data Lead Profile](/dataLeadProfile.md),
   [General Good Practice](/GeneralGoodPractices.sql),
   [What is a good question?](/What%20Is%20a%20Good%20Question)
 
