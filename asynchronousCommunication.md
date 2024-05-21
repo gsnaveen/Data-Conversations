@@ -1,4 +1,4 @@
-### Gloal organizations have challange in keeping the teams in sync which causes 
+### Global organizations have challange in keeping the teams in sync which causes 
     a. Lose of productivity
     b. Teams losses focus
 
