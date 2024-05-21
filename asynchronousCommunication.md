@@ -1,42 +1,42 @@
-Gloal organizations have challange in keeping the teams in sync which causes 
+### Gloal organizations have challange in keeping the teams in sync which causes 
     a. Lose of productivity
     b. Teams losses focus
 
-1) Some of the factors
-      a. Teams not on the same page (Confusions due to info variation)
-      b. Language differences
-      c. Cultural difference
+#### Some of the factors
+    a. Teams not on the same page (Confusions due to info variation)
+    b. Language differences
+    c. Cultural difference
 
-Overcomming distributed team challanges
+#### Overcomming distributed team challanges
 
-  Shared Comminucation channel
-    Slack
-    Teams
+##### Shared Comminucation channel
+    a. Slack
+    b. Teams
     .. any chat/communities tool
 
-  Shared Drive:  
+##### Shared Drive:  
     oneDrive
     ..any shared storage
 
-  Live content update
+##### Live content update
     confluence
     ..any web content management tools
 
-  FAQ
-    How do i do .....
-    Commenly asked questions
+##### FAQ
+    a. How do i do .....
+    b. Commenly asked questions
     Any information needed by more than one person
 
-  Demos & Recordings
+##### Demos & Recordings
     Where possible create demos & recordings
 
-  Weekly Sync
+##### Weekly Sync
     Have a recorded weekly Sync 
 
-  Align timezones
+##### Align timezones
     It avoids lag
 
-  Distributing responsibilities
+##### Distributing responsibilities
     Avoid spreading task in multiple timezone
     
   Don't messup anyone's sleep because they are working in global teams    
