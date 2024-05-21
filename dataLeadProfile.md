@@ -4,6 +4,12 @@
         b. everything configurable
         c. configuration change rather than code change
         d. Script for anything that is done manually (where possible)
+        e. Propose oppotunities for improvements
+                i.   Summary
+                ii.  Visual details
+                iii. Examples
+                iv.  benifets .. time saved, user experience , process improvements , reducing friction. 
+                
 
 ### 2) Visual comminucator
         a. flows
