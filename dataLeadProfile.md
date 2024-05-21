@@ -4,19 +4,19 @@
         b. everything configurable
         c. configuration change rather than code change
         d. Script for anything that is done manually (where possible)
-        e. Propose oppotunities for improvements
-                i.   Summary
-                ii.  Visual details
-                iii. Examples
-                iv.  benifets .. time saved, user experience , process improvements , reducing friction. 
                 
-
 ### 2) Visual comminucator
         a. flows
         b. data charts
         c. coloring main points
 
 ### 3) Problem solving skills in general
+       Propose oppotunities for improvements
+        a. Summary
+        b. Visual details
+        c. Examples
+        d. benifets .. time saved, user experience , process improvements , reducing friction. 
+        
 ### 4) Root cause analysis of data issues
 ### 5) Continous improvement
         a. friction points
