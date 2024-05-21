@@ -1,13 +1,11 @@
 Gloal organizations have challange in keeping the teams in sync which causes 
-  
-  Lose of productivity
-  Teams losses focus
+    a. Lose of productivity
+    b. Teams losses focus
 
-Some of the factors
-  Teams not on the same page 
-    (Confusions due to info variation)
-  Language differences
-  Cultural difference
+1) Some of the factors
+      a. Teams not on the same page (Confusions due to info variation)
+      b. Language differences
+      c. Cultural difference
 
 Overcomming distributed team challanges
 
