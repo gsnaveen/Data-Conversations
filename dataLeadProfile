@@ -1,20 +1,37 @@
 
 1) Technology background
-2) Problem solving skills in general
-3) Root cause analysis of data issues
-4) What it means to 
+        a. data first
+        b. everything configurable
+        c. configuration change rather than code change
+        d. Script for anything that is done manually (where possible)
+
+2) Visual comminucator
+        a. flows
+        b. data charts
+        c. coloring main points
+
+3) Problem solving skills in general
+4) Root cause analysis of data issues
+5) Continous improvement
+        a. friction points
+        b. issue resolution iteratively
+
+6) What it means to 
         a. take ownership
         b. leading a team
+        c. self starter
         
-5) Problem solving 
+7) Problem solving 
         a. lifecycle 
         b. How to prevent delays
         c. How to speed up resolution
-6) Customer needs
+
+8) Customer needs
         a. Business Question
         b. User stories https://github.com/gsnaveen/datadocs/blob/main/HowToCreateGoodUserStories 
         c. Success cretria
         d. Actionable insights
         e. Project Management
-7) Comminucation https://github.com/gsnaveen/datadocs/blob/main/emailTalkingData 
-8) Collobration https://github.com/gsnaveen/datadocs/blob/main/asynchronousCommunication 
+
+9) Comminucation https://github.com/gsnaveen/datadocs/blob/main/emailTalkingData 
+10) Collobration https://github.com/gsnaveen/datadocs/blob/main/asynchronousCommunication 
