@@ -22,7 +22,7 @@ How to have data coversations using tools and best practices for communication t
   
 ## Process
   [User Stories](/HowToCreateGoodUserStories),
-  [Process Improvement](/Process%20Improvemwents.md),
+  [Process Improvement](/Process%20Improvements.md),
   [Business Question (data)](/Data%20Pipeline%20for%20Business%20Question.md)
 
     
