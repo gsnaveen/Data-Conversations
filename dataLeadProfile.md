@@ -4,6 +4,7 @@
         b. everything configurable
         c. configuration change rather than code change
         d. Script for anything that is done manually (where possible)
+        e. [Inventing another way](https://www.youtube.com/shorts/Cuvu1NypXns)
                 
 ### 2) Visual comminucator
         a. flows
