@@ -4,14 +4,15 @@
         b. everything configurable
         c. configuration change rather than code change
         d. Script for anything that is done manually (where possible)
-        e. [Inventing another way](https://www.youtube.com/shorts/Cuvu1NypXns)
+        
+
                 
 ### 2) Visual comminucator
         a. flows
         b. data charts
         c. coloring main points
 
-### 3) Problem solving skills in general
+### 3) Problem solving skills in general [Inventing another way](https://www.youtube.com/shorts/Cuvu1NypXns)
         a. lifecycle 
         b. How to prevent delays
         c. How to speed up resolution
