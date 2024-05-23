@@ -27,13 +27,13 @@
 
 Machine should provide the following to get started
 
-  1. date time 
-  2. Unique id of the source/ MAC address
-  3. Product id/name
-  4. Product version
-  5. Customer/Account identifier
-  6. Event/Stream name
-  7. additional contect to the event/stream
-  8. some sort of status
-  9. numeric values
-  10. additional attributes
+    1. date time 
+    2. Unique id of the source/ MAC address
+    3. Product id/name
+    4. Product version
+    5. Customer/Account identifier
+    6. Event/Stream name
+    7. additional contect to the event/stream
+    8. some sort of status
+    9. numeric values
+    10. additional attributes
