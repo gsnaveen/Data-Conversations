@@ -24,3 +24,14 @@
     1. Level 1 (base)
     2. Level 2 (record transformed)
     3. Level 3 (it takes 2 or more records)
+
+Machine should provide the following to get started
+
+    1. date time 
+    2. Unique id of the source
+    3. Customer/Account identifier
+    4. Event/Stream name
+    5. additional contect to the event/stream
+    6. some sort of status
+    7. numeric values
+    8. additional attributes
