@@ -43,6 +43,7 @@ How to have data coversations using tools and best practices for communication t
   [DeConstructing SQL](/deConstructingSQL),
   [Generalizing Design](/generalizeButKeepDetails),
   [Requesting Data Export](/requestingExportFile),
+  [Data engineering Starts from data creation](/data%20engineering%20starts%20from%20data%20creation.md)
 
 
 ## Analytics
