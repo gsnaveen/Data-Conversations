@@ -33,7 +33,7 @@ Machine should provide the following to get started
     4. Product version
     5. Customer/Account identifier
     6. Event/Stream name
-    7. additional contect to the event/stream
+    7. additional context to the event/stream
     8. some sort of status
     9. numeric values
     10. additional attributes
