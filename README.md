@@ -33,6 +33,8 @@ How to have data coversations using tools and best practices for communication t
   [Tableau Metadata](/tableau_metadata.py),
   [Business Objects Metadata](/bobjBusinessLayerExport.py)
 
+## Generative AI / LLMs
+  [Prompts using Data Catalogs](/LLMs/prompts.md)
   
 ## Data Engineering
   [Domain Driven Architecture](/Domain%20Driven%20Architecture),
