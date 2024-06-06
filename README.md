@@ -1,5 +1,6 @@
 # Data Conversations (Let data speak) Follow the data
-![datafirst](/images/datafirst.jpg)
+
+<img src="/images/datafirst.jpg" width="500"/>
 
 How to have data coversations using tools and best practices for communication to let data speak.
 
