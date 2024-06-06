@@ -1,4 +1,5 @@
 # Data Conversations (Let data speak) Follow the data
+![datafirst](/images/datafirst.jpg)
 
 How to have data coversations using tools and best practices for communication to let data speak.
 
