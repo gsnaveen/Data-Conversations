@@ -79,7 +79,7 @@ Bucketing :
 Excel Ffunctions:
 =COUNTIF(C5:C215,"YES")
 
-SUMIF,COUNTIFS, SUMIFS
+SUMIF,COUNTIFS, SUMIFS , MAXIFS
 
 Xlookup
 
