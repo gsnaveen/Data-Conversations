@@ -2,7 +2,7 @@
 ## How to design a pipeline for debugging
 
 1. Carry original and transformed attributes
-2. Split data processing into domains
+2. Split data processing into domain/function area
 3. Sub domains for processing e.g. opportunity, quotes, territory , products 
 4. Carry the filter attributes
 5. Carry the step transformed data
