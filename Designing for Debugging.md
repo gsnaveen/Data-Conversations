@@ -3,7 +3,7 @@
 
 1. Carry original and transformed attributes
 2. Split data processing into domains
-3. Sub domains for processing e.g. bookings, backlogs, shipments , revenue 
+3. Sub domains for processing e.g. opportunity, quotes, territory , products 
 4. Carry the filter attributes
 5. Carry the step transformed data
 6. Carry the flags used
