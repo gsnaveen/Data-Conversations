@@ -4,7 +4,7 @@
 
 How to have data coversations using tools and best practices for communication to let data speak.
 
-## Data First
+## Data First Culture
   [Data Products](/dataProducts),
   [Data is priority](/dataPriority),
   [How to data question](/turningEveryQuestionIntoDataQuestion.md),
