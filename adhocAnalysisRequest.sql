@@ -28,7 +28,7 @@ Step 9 Agree on Grain
 Step 10 Grain Flat dimension (flags at the grain)
 Step 11 Notes (comments on the transformations for backtracking)
 Step 12 builtin backtracking/audit
-
+Step 13  YTD ,MDT  these metrics are good for final status, if the status changes then e.g pending or WIP will be different for different execution.
 	Document data decisions
 	filter change or introduction
 
