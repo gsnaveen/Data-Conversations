@@ -6,13 +6,13 @@ Following are some of the concepts which will lead to a lower cost of support an
 
 1) Design.
 2) Self Service.
-3) Smart Employees willing to work as a team.
+3) Talented Employees willing to work as a team.
 
 ----------------------------------------------------------------------------------------------
 
 1) Design.
    
-   It all starts with the design.. weather it's a Process or a Product.
+   It all starts with the design.. whether it's a Process or a Product.
     * Apple is known for it's Product design.
     * GE is known for processes and good products.
       
@@ -23,6 +23,6 @@ Following are some of the concepts which will lead to a lower cost of support an
       Self Service can help a organization to minimize its support spending and make processes very direct. This helps a organization to reach a resolution quickly and in a efficient manner.
 
 
-4) Smart Employees willing to work as a team.
+4) Talented Employees willing to work as a team.
    
     I think this is one of the must and most important traits of a Zero maintenance enterprise. This helps in the most productive environment and easy resolution to issue. This leverages the human resources     to maximum. Which in turn lower the cost of doing business. It also maximizes share holder value.
