@@ -7,6 +7,7 @@ Following are some of the concepts which will lead to a lower cost of support an
 1) Design.
 2) Self Service.
 3) Talented Employees willing to work as a team.
+4) Using AI and Agents
 
 ----------------------------------------------------------------------------------------------
 
@@ -30,3 +31,4 @@ Following are some of the concepts which will lead to a lower cost of support an
 5) Agentic Worflows & AI Agents
 
    Now with agentic workflow tasks can be automated and with AI agents self healing and correction can be done without human intervention. 
+
