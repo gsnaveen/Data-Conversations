@@ -26,3 +26,7 @@ Following are some of the concepts which will lead to a lower cost of support an
 4) Talented Employees willing to work as a team.
    
     I think this is one of the must and most important traits of a Zero maintenance enterprise. This helps in the most productive environment and easy resolution to issue. This leverages the human resources     to maximum. Which in turn lower the cost of doing business. It also maximizes share holder value.
+
+5) Agentic Worflows & AI Agents
+
+   Now with agentic workflow tasks can be automated and with AI agents self healing and correction can be done without human intervention. 
