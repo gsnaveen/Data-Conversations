@@ -1,5 +1,5 @@
 ### Global organizations have challange in keeping the teams in sync which causes 
-    a. Lose of productivity
+    a. Loss of productivity
     b. Teams losses focus
 
 #### Some of the factors
