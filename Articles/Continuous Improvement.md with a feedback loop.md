@@ -1,9 +1,12 @@
 
-#Continuous Improvement with a feedback loop
+# Continuous Improvement with a feedback loop
+
 Kaizen is the the way great leaders think ... 
 
-1. there is an idea
-2. we implement it
-3. We find the fiction points 
-4. we resolve friction points
-5. repeat 3 & 4 steps -- continious improvement
+1. There is an idea
+2. Implement it
+3. Find the fiction points 
+4. Resolve friction points
+5. Repeat 3 & 4 steps -- continious improvement
+
+### Though this looks simple it has the potential to mke you a forward thinking leader
