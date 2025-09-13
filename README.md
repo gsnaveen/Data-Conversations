@@ -83,4 +83,5 @@ How to have data coversations using tools and best practices for communication t
   5. [Short Term gains with Long Term Strategy](/Articles/Short%20Term%20gains%20with%20Long%20Term%20Strategy.md)
   6. [Speed of Big Data Discovery](/Articles/Speed%20of%20Big%20Data%20Discovery.md)
   7. [Zero Maintainance Enterprise](/Articles/Zero%20Maintainance%20Enterprise.md)
+  8. [Continuous Improvement with a feedback loop](/Articles/Continuous%20Improvement%20with%20a%20feedback%20loop.md)
 
