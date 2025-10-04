@@ -1,22 +1,24 @@
-code change
-  it is script change which needs
-    compiling
-    testing
-    deployment
+Decoupling code and configurations
 
-data change 
-  it is configuration based coding.
-  the configurations are updated
-    it does not require code compiling
-    it does not require testing
-    production errors are reduced
-    Automation is enabled
-
-
-Write drving code which write coded based on a CSV/Excel/Google Sheets
-  this will let bsuiness user directly do the change
-  it can be 
-    mappings
-    case statements
-    if statements
-    calculations
+  code change
+    it is script change which needs
+      compiling
+      testing
+      deployment
+  
+  data change 
+    it is configuration based coding.
+    the configurations are updated
+      it does not require code compiling
+      it does not require testing
+      production errors are reduced
+      Automation is enabled
+  
+  
+  Write drving code which write code based on a CSV/Excel/Google Sheets
+    this will let bsuiness user directly do the change
+    it can be 
+      mappings
+      case statements
+      if statements
+      calculations
