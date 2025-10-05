@@ -41,7 +41,7 @@ How to have data coversations using tools and best practices for communication t
 ## Data Engineering
   [Domain Driven Architecture](/Domain%20Driven%20Architecture),
   [Universal Data Model](/UniversalDataModels),
-  [Should you do Data or Code change](/code%20change%20or%20data%20change),
+  [Should you do Data or Code change](/code%20change%20or%20data%20change.md),
   [Design for debugging](/Designing%20for%20Debugging.md)
   [SQL Guidelines](/SQL%20Guidelines),
   [DeConstructing SQL](/deConstructingSQL),
