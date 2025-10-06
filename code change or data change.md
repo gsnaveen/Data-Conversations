@@ -6,7 +6,7 @@
       2. testing
       3. deployment
   
-  ### Data change 
+  ### Configuration / Data change 
     it is configuration based coding.
     configurations update does not need
       1. code compiling
