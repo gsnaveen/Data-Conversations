@@ -1,7 +1,7 @@
 
 # Continuous Improvement with a feedback loop
 
-Kaizen is the the way great leaders think ... 
+Kaizen is the the way great leaders think ... [Jiro](https://music.youtube.com/watch?v=x2Rj0sgjDSw)
 
 1. There is an idea
 2. Implement it
@@ -12,3 +12,5 @@ Kaizen is the the way great leaders think ...
 7. Follow the 3 & 4 steps -- Feedback loop
 
 ### Though this looks simple it has the potential to mke you a forward thinking leader
+
+
